@@ -294,6 +294,7 @@ class IndividualFactsTabModuleExtended extends IndividualFactsTabModule_2x imple
                     $this->title1(),
                     $this->description1(),
                     true,
+                    true,
                     true);
     }
 
